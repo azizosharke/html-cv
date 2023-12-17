@@ -1,0 +1,22 @@
+body{
+font-family: 'Libre Baskerville', serif;
+background-color: #FBEEC1;
+}
+
+#name {
+    text-align: center;
+    background-color: #8D8741;
+
+}
+footer{
+    background-color: gray;
+}
+h2{
+    background-color: #bc986A;
+}
+h3 {
+    background-color:#659DBD;
+}
+
+
+
